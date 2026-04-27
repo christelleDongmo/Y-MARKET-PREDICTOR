@@ -40,7 +40,23 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Y-MARKET PREDICTOR : Smart Data Yaoundé")
+st.markdown("""
+<h1 style="
+    color:#FFD700;
+    font-weight:900;
+    text-shadow:2px 2px 5px rgba(0,0,0,0.4);
+    margin-bottom:10px;
+">
+📊 Y-MARKET PREDICTOR
+</h1>
+
+<h3 style="
+    color:#00FA9A;
+    margin-top:0px;
+">
+Smart Data Yaoundé
+</h3>
+""", unsafe_allow_html=True)
 
 # =========================
 # SUPABASE
