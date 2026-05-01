@@ -265,20 +265,3 @@ with tab7:
         "text/csv"
     )
 
-# =========================
-# FOOTER
-# =========================
-st.markdown("---")
-st.markdown("""
-<div style="
-    text-align: right;
-    color: #FFD700;
-    font-style: italic;
-    font-size: 14px;
-    opacity: 0.85;
-    margin-top: 20px;
-">
-    Projet réalisé par <b>DONGMO TCHUDZO CHRISTELLE NIQUOIZE</b><br>
-    dans le cadre de l’UE INF232 EC2
-</div>
-""", unsafe_allow_html=True)
